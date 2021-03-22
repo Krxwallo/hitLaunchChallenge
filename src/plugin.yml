@@ -1,0 +1,5 @@
+name: HitLaunchChallenge
+version: 0.1
+author: justAm0dd3r
+main: me.justAm0dd3r.hitlaunchchallenge.HitLaunchChallengePlugin
+api-version: 1.13
